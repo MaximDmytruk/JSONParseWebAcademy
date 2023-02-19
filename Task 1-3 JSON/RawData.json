@@ -1,0 +1,37 @@
+{
+    "count":2,
+    "companyDescription":"Apple",
+    "listOfData":[{
+                    "name":"Iphone",
+                    "modelNumber":"13ProMax",
+                    "countries":["New York","Boston"],
+                    "price":{
+                        "regions":[{
+                                    "name":"East",
+                                    "price":1000
+                                    },
+                                    {
+                                     "name":"West",
+                                     "price":1050
+                                    }
+                                ]
+                            },
+                    "year":2021
+                },{
+                    "name":"Ipad",
+                    "modelNumber":"Air",
+                    "countries":["Toronto","Paris"],
+                    "price":{
+                        "regions":[{
+                                    "name":"North",
+                                    "price":1200
+                                    },
+                                    {
+                                     "name":"South",
+                                     "price":1250
+                                    }
+                                ]
+                            },
+                    "year":2020
+                }]
+}
